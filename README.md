@@ -28,11 +28,11 @@ Aqui, tratamos a série como uma função de decaimento rápido, ou seja, ela te
 
 Recomendação para estudo: 
 
-Séries de Fourier - Professor Possani: [text](https://www.youtube.com/watch?v=Wp0jZeBQfxI)
+Séries de Fourier - Professor Possani: [link](https://www.youtube.com/watch?v=Wp0jZeBQfxI)
 
-Transformadas de Laplace e de Fourier - Professor Possani: [text](https://www.youtube.com/watch?v=vncQ5m3dlH8)
+Transformadas de Laplace e de Fourier - Professor Possani: [link](https://www.youtube.com/watch?v=vncQ5m3dlH8)
 
-Aplicações da Transformada de Fourier - Professor Possani: [text](https://www.youtube.com/watch?v=xb5wdbdztGE)
+Aplicações da Transformada de Fourier - Professor Possani: [link](https://www.youtube.com/watch?v=xb5wdbdztGE)
 
 
 

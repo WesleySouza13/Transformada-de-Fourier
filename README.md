@@ -18,6 +18,7 @@ Por exemplo, ao analisar os picos de uma série temporal de um ativo financeiro,
 
 
 A Definição matemática é dada por: 
+
 ![alt text](image-1.png)
 
 Aqui, tratamos a série como uma função de decaimento rápido, ou seja, ela tende rapidamente a zero a partir de valores muito grandes positivos ou negativos.
@@ -26,7 +27,11 @@ Aqui, tratamos a série como uma função de decaimento rápido, ou seja, ela te
 Recomendação para estudo: 
 
 Séries de Fourier - Professor Possani: [text](https://www.youtube.com/watch?v=Wp0jZeBQfxI)
+
 Transformadas de Laplace e de Fourier - Professor Possani: [text](https://www.youtube.com/watch?v=vncQ5m3dlH8)
+
 Aplicações da Transformada de Fourier - Professor Possani: [text](https://www.youtube.com/watch?v=xb5wdbdztGE)
 
 
+
+**No arquivo fft.ipynb eu deixei um exemplo de aplicação do método, utilizando dados de um ativo financeiro da IBM**
